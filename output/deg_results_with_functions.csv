@@ -1,0 +1,11 @@
+Gene_ID,log2FoldChange,p_value,Function
+AT1G01010,1.322,0.0061,Oxidative stress response
+AT1G01020,-0.152,0.1679,Lipid metabolism
+AT1G01030,0.368,0.0917,Cell wall synthesis
+AT1G01040,0.737,0.0025,Photosynthesis regulation
+AT1G01050,0.064,0.5528,Unknown
+AT1G01060,0.885,0.0074,ABA signaling pathway
+AT1G01070,1.152,0.0041,Osmotic stress response
+AT1G01080,0.31,0.0513,Transcription factor
+AT1G01090,0.889,0.0038,Protein folding
+AT1G01100,1.322,0.0018,Heat shock response
