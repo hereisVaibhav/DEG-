@@ -1,0 +1,81 @@
+Gene_ID,Control_1,Control_2,Stress_1,Stress_2,Function
+AT1G01010,256,315,1160,793,Oxidative stress response
+AT1G01020,735,622,1003,787,Lipid metabolism
+AT1G01030,332,341,686,599,Cell wall synthesis
+AT1G01040,944,973,2710,1974,Photosynthesis regulation
+AT1G01050,500,470,849,660,Unknown
+AT1G01060,785,703,2326,1678,ABA signaling pathway
+AT1G01070,440,383,1565,1113,Osmotic stress response
+AT1G01080,612,512,1160,912,Transcription factor
+AT1G01090,641,580,1940,1423,Protein folding
+AT1G01100,473,562,2154,1524,Heat shock response
+AT1G01110,300,325,1369,1070,Reactive oxygen species scavenging
+AT1G01120,1049,984,1582,1127,Nucleic acid binding
+AT1G01130,464,441,987,681,Auxin signaling pathway
+AT1G01140,638,592,2245,1579,Cell cycle regulation
+AT1G01150,753,747,1130,883,Chlorophyll biosynthesis
+AT1G01160,233,217,591,404,Sugar transport
+AT1G01170,551,493,1744,1350,Cold acclimation
+AT1G01180,859,780,1164,830,Nitrate assimilation
+AT1G01190,381,435,1905,1362,Drought tolerance
+AT1G01200,694,641,1182,843,Senescence
+AT1G01210,280,363,1464,1069,Ethylene biosynthesis
+AT1G01220,1194,1102,1759,1331,Root development
+AT1G01230,491,448,2045,1432,Pathogen resistance
+AT1G01240,794,752,1177,807,Circadian rhythm
+AT1G01250,420,412,948,736,Seed germination
+AT1G01260,642,578,2155,1560,Phosphate starvation response
+AT1G01270,958,951,1368,954,Anatomy of flower
+AT1G01280,519,546,1640,1162,Iron homeostasis
+AT1G01290,343,361,1122,811,Light signaling
+AT1G01300,759,655,2431,1754,Stomatal movement
+AT1G01310,596,614,1893,1435,Nutrient transport
+AT1G01320,315,263,778,599,DNA repair
+AT1G01330,654,595,1912,1472,RNA polymerase
+AT1G01340,874,834,1292,966,Vacuolar transport
+AT1G01350,432,477,1589,1236,Cytokinin signaling pathway
+AT1G01360,669,581,2278,1639,Salinity stress response
+AT1G01370,965,908,1387,1040,Mitochondrial function
+AT1G01380,551,488,1933,1414,Defense response
+AT1G01390,713,734,1095,814,Reproductive development
+AT1G01400,385,361,973,777,Heavy metal tolerance
+AT1G01410,587,577,2124,1550,Pollen tube growth
+AT1G01420,920,821,1280,879,Xylem development
+AT1G01430,474,413,1773,1333,Root hair formation
+AT1G01440,765,694,2309,1694,Cell division
+AT1G01450,573,573,777,608,Endoplasmic reticulum stress response
+AT1G01460,343,339,1557,1100,Chloroplast division
+AT1G01470,653,659,1354,997,Gibberellin biosynthesis
+AT1G01480,1025,904,1485,1097,Lipase activity
+AT1G01490,470,504,1971,1489,Nucleosome assembly
+AT1G01500,848,758,2566,1855,Programmed cell death
+AT1G01510,410,350,1621,1190,Flower development
+AT1G01520,738,744,980,698,Seed maturation
+AT1G01530,508,506,2257,1612,Herbivore defense
+AT1G01540,320,353,1187,901,Abiotic stress response
+AT1G01550,582,538,2054,1455,Metabolic pathway regulation
+AT1G01560,858,787,1250,979,Membrane transport
+AT1G01570,296,224,992,761,Cytoskeleton organization
+AT1G01580,697,708,2080,1525,Hormone signaling
+AT1G01590,1062,1002,1559,1206,Photosystem II stability
+AT1G01600,390,443,1893,1321,Starch metabolism
+AT1G01610,675,534,1129,836,Carbohydrate metabolism
+AT1G01620,531,621,2315,1674,Jasmonic acid signaling pathway
+AT1G01630,959,918,2790,1993,Root nodule development
+AT1G01640,453,399,469,245,Abscisic acid catabolism
+AT1G01650,834,711,1280,1020,Response to water deprivation
+AT1G01660,226,238,631,466,Response to cadmium ion
+AT1G01670,1086,1060,3766,2690,Cellular amino acid metabolic process
+AT1G01680,1069,1103,1286,1000,Flavonoid biosynthesis
+AT1G01690,999,986,1546,1033,Protein ubiquitination
+AT1G01700,466,466,762,581,Cell growth
+AT1G01710,1073,1014,1691,1158,Epidermal cell differentiation
+AT1G01720,629,630,393,395,Vesicle-mediated transport
+AT1G01730,1063,1074,4188,3238,Protein secretion
+AT1G01740,389,458,363,210,Peroxidase activity
+AT1G01750,291,282,330,324,DNA methylation
+AT1G01760,410,354,1212,937,Splicing
+AT1G01770,342,338,416,257,Regulation of transcription
+AT1G01780,330,322,625,368,Root hair elongation
+AT1G01790,1040,1055,1852,1401,Response to wounding
+AT1G01800,690,717,831,487,Photosystem I regulation
