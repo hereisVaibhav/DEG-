@@ -1,0 +1,101 @@
+Gene_ID,log2FoldChange,p_value,Function
+Zm00001e000000,1.296,0.1552,Root branching
+Zm00001e000001,1.793,0.0649,Flowering time regulation
+Zm00001e000002,2.094,0.0614,Cell cycle control
+Zm00001e000003,0.642,0.0961,Chromatin remodeling
+Zm00001e000004,2.194,0.0656,Shoot apical meristem maintenance
+Zm00001e000005,1.294,0.0975,Terpenoid biosynthesis
+Zm00001e000006,0.629,0.2318,Plant hormone signaling
+Zm00001e000007,0.931,0.0993,Programmed cell death
+Zm00001e000008,1.704,0.0664,Beta-oxidation
+Zm00001e000009,1.555,0.0534,Gibberellin signaling
+Zm00001e000010,-2.569,0.0182,Stem elongation
+Zm00001e000011,0.647,0.1988,Glycosyltransferase activity
+Zm00001e000012,1.378,0.1334,Nitrogen metabolism
+Zm00001e000013,1.755,0.0584,Nitrogen metabolism
+Zm00001e000014,-0.584,0.0827,Light harvesting
+Zm00001e000015,0.623,0.0668,Telomere maintenance
+Zm00001e000016,0.96,0.0547,Unknown function
+Zm00001e000017,0.404,0.2207,Systemic acquired resistance
+Zm00001e000018,0.352,0.2336,Plant hormone signaling
+Zm00001e000019,1.35,0.0952,Senescence regulation
+Zm00001e000020,2.202,0.071,Phosphate uptake
+Zm00001e000021,1.985,0.0489,Ammonium assimilation
+Zm00001e000022,-2.867,0.0007,Stem elongation
+Zm00001e000023,0.269,0.3613,Salt stress response
+Zm00001e000024,-0.516,0.3287,Mycotoxin biosynthesis
+Zm00001e000025,-0.18,0.7763,Unknown function
+Zm00001e000026,1.748,0.0858,Ion channel activity
+Zm00001e000027,1.901,0.0768,Spermidine biosynthesis
+Zm00001e000028,1.209,0.0513,Transcription factor regulation
+Zm00001e000029,-0.485,0.0913,Disease resistance
+Zm00001e000030,0.731,0.0629,Flavonoid metabolism
+Zm00001e000031,1.676,0.039,Programmed cell death
+Zm00001e000032,0.53,0.0767,Ammonium assimilation
+Zm00001e000033,-0.217,0.3296,Oxidative phosphorylation
+Zm00001e000034,1.97,0.0547,Kernel development
+Zm00001e000035,-0.523,0.1583,Reproductive development
+Zm00001e000036,1.569,0.068,Root nodule formation
+Zm00001e000037,0.758,0.0858,Chromatin remodeling
+Zm00001e000038,1.734,0.061,Embryo development
+Zm00001e000039,-0.811,0.03,Salicylic acid signaling
+Zm00001e000040,1.895,0.0467,Mycotoxin biosynthesis
+Zm00001e000041,1.387,0.0353,Jasmonic acid signaling
+Zm00001e000042,0.757,0.1262,Unknown function
+Zm00001e000043,0.612,0.1618,Pectin methylesterase activity
+Zm00001e000044,0.176,0.1895,Pectin synthesis
+Zm00001e000045,0.08,0.822,Salt stress response
+Zm00001e000046,1.965,0.0658,Photosynthesis
+Zm00001e000047,0.579,0.1905,Glycolysis
+Zm00001e000048,0.745,0.1166,Plant hormone signaling
+Zm00001e000049,0.645,0.0823,Endocytosis
+Zm00001e000050,1.054,0.0374,Leaf blade development
+Zm00001e000051,-0.489,0.1769,Seed dormancy
+Zm00001e000052,0.28,0.1854,Oxidative phosphorylation
+Zm00001e000053,1.422,0.0337,Unknown function
+Zm00001e000054,-0.4,0.2419,Guard cell regulation
+Zm00001e000055,1.852,0.0634,Disease resistance
+Zm00001e000056,-0.916,0.1961,Root branching
+Zm00001e000057,-0.22,0.4372,Ear morphology
+Zm00001e000058,0.154,0.3691,Root architecture
+Zm00001e000059,-0.211,0.3331,Guard cell regulation
+Zm00001e000060,-0.022,0.9254,Oxidative phosphorylation
+Zm00001e000061,1.825,0.0516,Membrane potential regulation
+Zm00001e000062,0.665,0.1038,Senescence regulation
+Zm00001e000063,1.416,0.0078,Cell cycle control
+Zm00001e000064,-0.104,0.6788,Abscisic acid metabolism
+Zm00001e000065,0.591,0.0473,Cytokinin degradation
+Zm00001e000066,1.624,0.073,Plant hormone signaling
+Zm00001e000067,0.486,0.1776,Nitrogen metabolism
+Zm00001e000068,2.162,0.063,Respiration
+Zm00001e000069,0.451,0.1851,Unknown function
+Zm00001e000070,-1.34,0.0378,Beta-oxidation
+Zm00001e000071,1.108,0.0629,Cellulose synthesis
+Zm00001e000072,0.246,0.3361,Salt stress response
+Zm00001e000073,0.491,0.0723,Plant hormone signaling
+Zm00001e000074,0.508,0.2006,Galacturonan biosynthesis
+Zm00001e000075,-0.799,0.1439,Ammonium assimilation
+Zm00001e000076,-3.501,0.0236,Reproductive development
+Zm00001e000077,0.608,0.0105,Cytoskeletal organization
+Zm00001e000078,1.384,0.1021,RNA splicing
+Zm00001e000079,-1.922,0.0531,Starch synthesis
+Zm00001e000080,-0.395,0.3024,Chloroplast development
+Zm00001e000081,-1.442,0.0205,Cytokinin degradation
+Zm00001e000082,-0.459,0.1746,Chromatin remodeling
+Zm00001e000083,2.179,0.0226,Kernel development
+Zm00001e000084,1.887,0.0651,Shoot apical meristem maintenance
+Zm00001e000085,1.37,0.1016,Endocytosis
+Zm00001e000086,1.898,0.1009,Lipid storage
+Zm00001e000087,0.515,0.1368,Ear morphology
+Zm00001e000088,1.29,0.0901,Shoot apical meristem maintenance
+Zm00001e000089,-0.918,0.0873,Cold stress response
+Zm00001e000090,-0.663,0.2636,Protein kinase activity
+Zm00001e000091,-0.419,0.2014,Root architecture
+Zm00001e000092,0.609,0.0333,Fatty acid synthesis
+Zm00001e000093,2.316,0.0006,Reproductive development
+Zm00001e000094,0.029,0.9134,Mycotoxin biosynthesis
+Zm00001e000095,-1.341,0.0335,Lignin biosynthesis
+Zm00001e000096,0.005,0.9598,Photosynthesis
+Zm00001e000097,1.203,0.0924,Protein kinase activity
+Zm00001e000098,0.552,0.0921,Systemic acquired resistance
+Zm00001e000099,1.928,0.0561,Pectin synthesis

@@ -1,0 +1,81 @@
+Gene_ID,log2FoldChange,p_value,Function
+AT1G01010,1.771,0.1576,Oxidative stress response
+AT1G01020,0.399,0.2566,Lipid metabolism
+AT1G01030,0.931,0.087,Cell wall synthesis
+AT1G01040,1.288,0.165,Photosynthesis regulation
+AT1G01050,0.636,0.2074,Unknown
+AT1G01060,1.427,0.1556,ABA signaling pathway
+AT1G01070,1.7,0.1474,Osmotic stress response
+AT1G01080,0.881,0.1259,Transcription factor
+AT1G01090,1.46,0.1466,Protein folding
+AT1G01100,1.827,0.143,Heat shock response
+AT1G01110,1.961,0.102,Reactive oxygen species scavenging
+AT1G01120,0.414,0.3733,Nucleic acid binding
+AT1G01130,0.881,0.2412,Auxin signaling pathway
+AT1G01140,1.635,0.1585,Cell cycle regulation
+AT1G01150,0.424,0.2855,Chlorophyll biosynthesis
+AT1G01160,1.141,0.2082,Sugar transport
+AT1G01170,1.566,0.1147,Cold acclimation
+AT1G01180,0.283,0.4752,Nitrate assimilation
+AT1G01190,1.999,0.1358,Drought tolerance
+AT1G01200,0.6,0.2846,Senescence
+AT1G01210,1.975,0.1189,Ethylene biosynthesis
+AT1G01220,0.428,0.3045,Root development
+AT1G01230,1.886,0.1494,Pathogen resistance
+AT1G01240,0.359,0.4448,Circadian rhythm
+AT1G01250,1.015,0.1548,Seed germination
+AT1G01260,1.605,0.1455,Phosphate starvation response
+AT1G01270,0.282,0.5007,Anatomy of flower
+AT1G01280,1.394,0.17,Iron homeostasis
+AT1G01290,1.455,0.1568,Light signaling
+AT1G01300,1.564,0.1456,Stomatal movement
+AT1G01310,1.458,0.1351,Nutrient transport
+AT1G01320,1.249,0.1183,DNA repair
+AT1G01330,1.437,0.1241,RNA polymerase
+AT1G01340,0.402,0.3373,Vacuolar transport
+AT1G01350,1.634,0.1113,Cytokinin signaling pathway
+AT1G01360,1.646,0.144,Salinity stress response
+AT1G01370,0.373,0.3508,Mitochondrial function
+AT1G01380,1.686,0.1364,Defense response
+AT1G01390,0.399,0.3467,Reproductive development
+AT1G01400,1.228,0.1184,Heavy metal tolerance
+AT1G01410,1.657,0.143,Pollen tube growth
+AT1G01420,0.31,0.4812,Xylem development
+AT1G01430,1.806,0.119,Root hair formation
+AT1G01440,1.455,0.147,Cell division
+AT1G01450,0.273,0.3918,Endoplasmic reticulum stress response
+AT1G01460,1.959,0.1447,Chloroplast division
+AT1G01470,0.841,0.2106,Gibberellin biosynthesis
+AT1G01480,0.42,0.3239,Lipase activity
+AT1G01490,1.827,0.1204,Nucleosome assembly
+AT1G01500,1.46,0.1527,Programmed cell death
+AT1G01510,1.884,0.1262,Flower development
+AT1G01520,0.179,0.6133,Seed maturation
+AT1G01530,1.93,0.1414,Herbivore defense
+AT1G01540,1.631,0.123,Abiotic stress response
+AT1G01550,1.646,0.1547,Metabolic pathway regulation
+AT1G01560,0.438,0.2604,Membrane transport
+AT1G01570,1.749,0.0941,Cytoskeleton organization
+AT1G01580,1.358,0.1572,Hormone signaling
+AT1G01590,0.421,0.29,Photosystem II stability
+AT1G01600,1.945,0.1475,Starch metabolism
+AT1G01610,0.7,0.1928,Carbohydrate metabolism
+AT1G01620,1.79,0.1356,Jasmonic acid signaling pathway
+AT1G01630,1.349,0.1696,Root nodule development
+AT1G01640,-0.254,0.6479,Abscisic acid catabolism
+AT1G01650,0.573,0.1674,Response to water deprivation
+AT1G01660,1.238,0.1607,Response to cadmium ion
+AT1G01670,1.588,0.1556,Cellular amino acid metabolic process
+AT1G01680,0.074,0.7586,Flavonoid biosynthesis
+AT1G01690,0.377,0.4534,Protein ubiquitination
+AT1G01700,0.526,0.2641,Cell growth
+AT1G01710,0.449,0.3863,Epidermal cell differentiation
+AT1G01720,-0.675,0.0003,Vesicle-mediated transport
+AT1G01730,1.796,0.1131,Protein secretion
+AT1G01740,-0.562,0.2945,Peroxidase activity
+AT1G01750,0.19,0.0251,DNA methylation
+AT1G01760,1.49,0.1133,Splicing
+AT1G01770,-0.015,0.972,Regulation of transcription
+AT1G01780,0.605,0.411,Root hair elongation
+AT1G01790,0.634,0.2361,Response to wounding
+AT1G01800,-0.094,0.8389,Photosystem I regulation
