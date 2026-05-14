@@ -1,0 +1,11 @@
+Gene_ID,Control_1,Control_2,Stress_1,Stress_2,Function,Implied Stress
+Zm00001d011000,424,508,2338,2243,Heat Shock Protein 70,Heat Stress
+Zm00001d010700,322,304,1954,1750,Osmotic Stress Regulator (DREB),Drought/Osmotic Stress
+Zm00001d015400,540,608,2057,1913,Salt Tolerance Factor,Salt Stress
+Zm00001d056438,609,673,1520,1492,Cold Acclimation Gene (CBF),Cold Stress
+Zm00001d024036,764,768,1058,1027,Jasmonic Acid Defense Signaling,Biotic/Wounding Stress
+Zm00001d043890,1191,1241,489,453,Photosynthesis Gene (Rubisco),General Stress Suppression
+Zm00001d030125,428,412,1120,1134,ABA Response Element (AREB),Hormone (ABA) Signaling
+Zm00001d023847,586,600,1039,936,Iron Storage Protein,Metal/Toxicity Stress
+Zm00001d015410,816,883,711,757,General Transporter,Slight Downregulation
+Zm00001d050115,499,528,563,530,Unknown Kinase,No Significant Change

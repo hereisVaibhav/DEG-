@@ -1,0 +1,11 @@
+Gene_ID,Control_1,Control_2,Stress_1,Stress_2,Function,Implied Stress
+AT1G01100,450,500,2500,2200,Heat Shock Protein 70,Heat Stress
+AT1G01070,300,330,1800,1650,Osmotic Stress Regulator (DREB),Drought/Osmotic Stress
+AT1G01540,550,600,2100,1950,Salt Tolerance Factor,Salt Stress
+AT5G64380,600,650,1500,1400,Cold Acclimation Gene (CBF),Cold Stress
+AT2G40360,700,750,1100,950,Jasmonic Acid Defense Signaling,Biotic/Wounding Stress
+AT4G38900,1200,1150,450,500,Photosynthesis Gene (Rubisco),General Stress Suppression
+AT3G01250,400,420,1200,1150,ABA Response Element (AREB),Hormone (ABA) Signaling
+AT2G38470,650,600,1000,900,Iron Storage Protein,Metal/Toxicity Stress
+AT1G54100,900,850,750,800,General Transporter,Slight Downregulation
+AT5G01150,500,520,530,500,Unknown Kinase,No Significant Change
